@@ -1,2 +1,2 @@
 echo "Hello from git jenkins"
-echo "Hello from webhook trigger01"
+echo "Hello from webhook trigger02"
